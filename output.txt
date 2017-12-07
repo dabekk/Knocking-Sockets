@@ -1,0 +1,19 @@
+HTTP/1.0 302 Found
+Location: http://www.google.ie/?gws_rd=cr&dcr=0&ei=MJ8mWuvKNeSEgAbfiI2oAQ
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Tue, 05 Dec 2017 13:29:20 GMT
+Server: gws
+Content-Length: 268
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: NID=118=UC-Tpl4NmYWNEPlMivIeJRZUQv4GyurwLhfzQ3Tcj7k9PZgqhiIcaKxrwGQetA1-T7wyCOsoWQxFAtqnGxbMODf893HC5AvhAfWYnvd-1GNzfYz_BBaAPy7Ozv7rCpJF; expires=Wed, 06-Jun-2018 13:29:20 GMT; path=/; domain=.google.com; HttpOnly
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://www.google.ie/?gws_rd=cr&amp;dcr=0&amp;ei=MJ8mWuvKNeSEgAbfiI2oAQ">here</A>.
+</BODY></HTML>
+      
